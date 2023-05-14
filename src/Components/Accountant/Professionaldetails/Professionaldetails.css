@@ -1,0 +1,88 @@
+body{
+    background-color: whitesmoke;
+}
+.professionaldetails{
+    margin-left: 30%;
+    margin-right: 5%;
+    margin-top: 100px;
+    font-weight: bold;
+}
+.onboardeddate{
+    border-radius: 10px;
+    margin-left: 10px;
+    width: 80%;
+    margin-bottom: 45px;
+    padding-left: 10px;
+    padding-right: 15px;
+    background-color: white;
+}
+.position{
+    border-radius: 10px;
+    margin-left: 10px;
+    width: 88%;
+    margin-bottom: 45px;
+    padding-left: 10px;
+    padding-right: 15px;
+    background-color: white;
+}
+.assignedgroup{
+    border-radius: 10px;
+    margin-left: 10px;
+    width: 80%;
+    margin-bottom: 45px;
+    padding-left: 10px;
+    padding-right: 15px;
+    background-color: white;
+}
+.salary{
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 35%;
+    padding-left: 10px;
+    margin-bottom: 45px;
+    background-color: white;
+}
+#pannumber{
+    margin-left: 40px;
+    margin-bottom: 45px;
+}
+.pannumber{
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 39%;
+    padding-left: 10px;
+    margin-bottom: 45px;
+    background-color: white;
+}
+.education{
+    margin-left: 10px;
+    border-radius: 10px;
+    margin-bottom: 45px;
+    width: 86%;
+    padding-left: 10px;
+    background-color: white;
+}
+.almamater{
+    margin-left: 10px;
+    border-radius: 10px;
+    margin-bottom: 45px;
+    width: 83.8%;
+    padding-left: 10px;
+    background-color: white;
+}
+.yoe{
+    margin-left: 10px;
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 76%;
+    background-color: white;
+    margin-bottom: 45px;
+}
+.form-control{
+    border: 2px solid rgb(19, 18, 18);
+}
+.profilepic{
+    margin-bottom: 45px;
+    padding-left: 10px;
+    border-radius: 20px;
+}

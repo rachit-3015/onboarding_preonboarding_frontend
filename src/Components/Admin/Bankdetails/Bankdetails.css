@@ -1,0 +1,57 @@
+body{
+    background-color: whitesmoke;
+}
+.bankdetails{
+    margin-left: 30%;
+    margin-right: 5%;
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+#bankno{
+    border-radius: 10px;
+    width: 80%;
+    height: 30px;
+    padding-left: 10px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    border: 2px solid rgb(19, 18, 18);
+    background-color: white;
+    border-style: solid;
+}
+.accountno{
+    border-radius: 10px;
+    width: 80.5%;
+    padding-left: 10px;
+    background-color: white;
+    border-style: solid;
+    margin-bottom: 45px;
+    margin-left: 10px;
+}
+.branchcode{
+    border-radius: 10px;
+    width: 80%;
+    padding-left: 10px;
+    background-color: white;
+    border-style: solid;
+    margin-bottom: 45px;
+    margin-left: 10px;
+}
+.ifsccode{
+    border-radius: 10px;
+    width: 82.8%;
+    padding-left: 10px;
+    background-color: white;
+    border-style: solid;
+    margin-bottom: 45px;
+    margin-left: 10px;
+}
+.cifno{
+    border-radius: 10px;
+    width: 85.5%;
+    padding-left: 10px;
+    background-color: white;
+    border-style: solid;
+    margin-bottom: 45px;
+    margin-left: 10px;
+}

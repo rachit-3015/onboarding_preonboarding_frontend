@@ -1,0 +1,93 @@
+body{
+    background-color: whitesmoke;
+}
+.selfdetails{
+    margin-left: 30%;
+    margin-right: 5%;
+    margin-top: 100px;
+    font-weight: bold; 
+}
+.name{
+    border-radius: 10px;
+    width: 90%;
+    margin-bottom: 45px;
+    margin-left: 10px;
+    background-color: white;
+    padding-left: 10px;
+}
+.birthdate{
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 40%;
+    background-color: white;
+    padding-left: 10px;   
+    padding-right: 10px; 
+}
+#age,#native{
+    margin-left: 60px;
+    margin-bottom: 45px;
+}
+.age{
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 33%;
+    margin-bottom: 45px;
+    background-color: white;
+    padding-left: 10px;
+}
+.mobile_no{
+    border-radius: 10px;
+    width: 38%;
+    margin-bottom: 45px;
+    margin-left: 10px;
+    background-color: white;
+    padding-left: 10px;
+}
+.native{
+    width: 28%;
+    border-radius: 10px;
+    margin-left: 10px;
+    width: 233px;
+    margin-bottom: 45px;
+    background-color: white;
+    padding-left: 10px;
+}
+.aadharano{
+    border-radius: 10px;
+    width: 290px;
+    margin-left: 10px;
+    margin-bottom: 45px;
+    background-color: white;
+    padding-left: 10px;
+}
+#cast{
+    margin-left: 60px;
+    margin-bottom: 45px;
+}
+.cast{
+    border-radius: 10px;
+    width: 247px;
+    margin-bottom: 45px;
+    margin-left: 10px;
+    background-color: white;
+    padding-left: 10px;
+}
+.email{
+    border-radius: 10px;
+    width: 82.5%;
+    margin-bottom: 45px;
+    background-color: white;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.languages{
+    border-radius: 10px;
+    width: 85.9%;
+    margin-bottom: 45px;
+    background-color: white;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.form-control{
+    border: 2px solid rgb(19, 18, 18);
+}
