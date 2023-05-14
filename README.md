@@ -1,12 +1,12 @@
 # onboarding_preonboarding_frontend
-![WhatsApp Image 2023-05-13 at 20 23 45](https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/28e9983f-0df1-43b3-8f4c-82d4ce2cc81f)
+![udatedone](https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/c0b3cda2-f492-4642-9855-4ff4624aae85)
+![updatedsecond](https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/87e94ca2-b6b6-4c17-ace9-9998eba47cb2)
+![updatedthird](https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/37517961-83d1-4bcd-be54-8647562cb96e)
 
-![WhatsApp Image 2023-05-13 at 20 23 47](https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/d512013d-671d-4346-b87d-c8f6aa732ba2)
 
-![WhatsApp Image 2023-05-13 at 20 23 47 (1)](https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/3a89ad4d-c58c-4898-9bb3-3fe93b58eb59)
+https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/d106b265-8fa7-4ef7-a163-a86aab4d8f07
 
-https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/eb1df5eb-424f-4a93-a70f-a9abaedceeb6
 
-https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/2fba2daf-2353-4108-a7f9-ad09dbe75935
 
- 
+https://github.com/rachit-3015/onboarding_preonboarding_frontend/assets/82304901/e0df20eb-3c25-4f74-8f38-b4447b436b00
+
